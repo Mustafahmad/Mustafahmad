@@ -1,7 +1,8 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/sarthakvs/sarthakvs/main/coding.gif" alt="MasterHead">
 </p>
-💫 About Me:
+<p align="center">  💫 About Me: </p>
+
 🔭 I’m currently working on eccomerce store<br><br>🌱 I’m currently learning nodejs framework.<br><br>👨‍💻 All of my projects are available at https://resume-xi-indol.vercel.app/<br><br>💬 Ask me about laravel, nodejs, express or database.<br><br>📫 How to reach me mustafahmad030@gmail.com<br><br>📄 Know about my experiences https://resume-xi-indol.vercel.app/<br><br>⚡ Fun fact I am good all-round cricketer and pretty good in table tennis.
 
 
