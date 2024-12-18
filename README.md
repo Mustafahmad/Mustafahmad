@@ -8,13 +8,10 @@
 
 - 🌱 I’m currently learning **nodejs framework.**
 
-- 👨‍💻 All of my projects are available at [https://resume-xi-indol.vercel.app/](https://resume-xi-indol.vercel.app/)
-
 - 💬 Ask me about **laravel, nodejs, express or database.**
 
 - 📫 How to reach me **mustafahmad030@gmail.com**
 
-- 📄 Know about my experiences [https://resume-xi-indol.vercel.app/](https://resume-xi-indol.vercel.app/)
 
 - ⚡ Fun fact **I am good all-round cricketer and pretty good in table tennis.**
 
