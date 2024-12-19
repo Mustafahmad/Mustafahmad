@@ -4,9 +4,9 @@
 <h1 align="center">Hi 👋, I'm Mustafa Ahmad</h1>
 <h3 align="center">A passionate fullstack developer from Pakistan.</h3>
 
-- 🔭 I’m currently working on **eccomerce store**
+- 🔭 I’m currently working as a **fullstack developer**.
 
-- 🌱 I’m currently learning **nodejs framework.**
+- 🌱 I’m currently learning **about the new technologies.**
 
 - 💬 Ask me about **laravel, nodejs, express or database.**
 
