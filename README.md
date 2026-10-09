@@ -1,7 +1,7 @@
 <!-- ========================= HEADER ========================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:EAF4FF&height=190&section=header&text=Mustafa%20Ahmad&fontSize=48&fontColor=172554&fontAlignY=38&desc=Full-Stack%20Software%20Engineer&descSize=18&descColor=334155&descAlignY=60&animation=fadeIn" alt="Mustafa Ahmad — Full-Stack Software Engineer" width="100%" />
+  <img src="assets/github-banner.png" alt="Mustafa Ahmad — Full-Stack Software Engineer" width="100%" />
 </p>
 
 <p align="center">
