@@ -83,12 +83,6 @@ I focus on **clean, maintainable code, practical problem-solving, and reliable s
   <img src="https://streak-stats.demolab.com?user=mustafahmad&theme=default&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mustafahmad&theme=github-light&hide_border=true&area=true" alt="GitHub contribution activity graph" width="100%" />
-</p>
-
-<sub>GitHub statistics and activity graphics are provided by third-party services and may occasionally be unavailable. Language charts reflect repository contents, not necessarily professional proficiency.</sub>
-
 ## Beyond Code
 
 When I'm away from the keyboard, I enjoy playing **cricket** and **table tennis**.
